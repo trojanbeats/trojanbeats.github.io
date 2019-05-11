@@ -15,7 +15,7 @@ body{
 }
 
 h1{
-    color: black;
+    color: pink;
     font-weight: 100;
     font-size: 18pt;
     transform: translateY(200px);
@@ -34,7 +34,7 @@ h1{
 }
 
 .menu a{
-    color: black;
+    color: pink;
     font-weight: 100;
     font-size: 14pt;
     opacity: .8;
