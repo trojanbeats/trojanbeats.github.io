@@ -15,7 +15,7 @@ body{
 }
 
 h1{
-    color: pink;
+    color: white;
     font-weight: 100;
     font-size: 18pt;
     transform: translateY(200px);
@@ -23,7 +23,7 @@ h1{
 }
 
 .menu{
-    color: pink;
+    color: white;
     font-weight: 100;
     font-size: 14pt;
     height: 200px;
@@ -34,7 +34,7 @@ h1{
 }
 
 .menu a{
-    color: pink;
+    color: white;
     font-weight: 100;
     font-size: 14pt;
     opacity: .8;
@@ -46,7 +46,7 @@ h1{
 }
 
 .menu a:visited{
-    color: black;
+    color: white;
     font-weight: 100;
     font-size: 14pt;
     opacity: .8;
@@ -56,7 +56,7 @@ h1{
 .about{
     font-size: 14pt;
     font-weight: 100;
-    color: black;
+    color: white;
     transform: translateY(200px);
     width: 400px;
     margin: auto;
